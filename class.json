@@ -22,8 +22,8 @@
         "tags":"data, kinetics"
 	    },
 
-    "Synapses":{
-        "title":"Synapses: collab work with Ryan Elgin ",
+    "synapses":{
+        "title":"synapses: collab work with Ryan Elgin ",
         "description":"A collaborative project investigating the structures of the human brain and computer operating systems. How does memory and attention deteriorate over time in both the organic and artificial mind?",
         "material": "Metal, Plaster, Hardware, 3D Environment, Sound, Projection Mapping (05:26)",
         "location": "new york city",
@@ -33,8 +33,8 @@
         "tags":"projection mapping"
         },
     
-    "Suffocate":{
-        "title":"Suffocate",
+    "suffocate":{
+        "title":"suffocate",
         "description":"Unlike an oxygen mask, this machine pumps water into the globe, eventually leaving no space for the white floaty inside.",
         "material": "arduino, acrylic, tube",
         "location": "new york city",
@@ -44,8 +44,8 @@
         "tags":"kinetics"
         },
 	
-	"Lamp":{
-        "title":"Lamp",
+	"lamp":{
+        "title":"lamp",
         "description":"A kinetic lamp that responds to environment light" ,
         "material": "arduino, 3d printing",
         "location": "new york city",
