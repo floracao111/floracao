@@ -22,10 +22,10 @@
         "tags":"data, kinetics"
 	    },
 
-    "untitled":{
-        "title":"Untitled - Collab with Ryan Elgin",
-        "description":" ",
-        "material": "stainless steel, plaster, projection mapping, unity 3D, touch designer, sound",
+    "Synapses":{
+        "title":"Synapses: collab work with Ryan Elgin ",
+        "description":"A collaborative project investigating the structures of the human brain and computer operating systems. How does memory and attention deteriorate over time in both the organic and artificial mind?",
+        "material": "Metal, Plaster, Hardware, 3D Environment, Sound, Projection Mapping (05:26)",
         "location": "new york city",
         "date":"mar 2024",
         "video": "https://player.vimeo.com/video/1019055871?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
@@ -33,16 +33,29 @@
         "tags":"projection mapping"
         },
     
-    "water-clock":{
-        "title":"Water Clock",
-        "description":"Experimental timer inspired by marine chronometers and the ways timekeeping devices have driven technological progress and innovation.",
+    "Suffocate":{
+        "title":"Suffocate",
+        "description":"Unlike an oxygen mask, this machine pumps water into the globe, eventually leaving no space for the white floaty inside.",
         "material": "arduino, acrylic, tube",
         "location": "new york city",
         "date":"oct 2024",
         "video": "https://player.vimeo.com/video/1018082231?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
         "image": ["waterclock3.jpg","waterclock2.jpg","waterclock1.jpg"],
         "tags":"kinetics"
+        },
+	
+	"Lamp":{
+        "title":"Lamp",
+        "description":"A kinetic lamp that responds to environment light" ,
+        "material": "arduino, 3d printing",
+        "location": "new york city",
+        "date":"oct 2024",
+        "video": " ",
+        "image": ["lamp1.jpg","lamp2.jpg","lamp3.jpg","lamp4.jpg"],
+        "tags":"kinetics"
         }
+
+
 
   
     
