@@ -35,7 +35,7 @@
     
     "suffocate":{
         "title":"suffocate",
-        "description":"Unlike an oxygen mask, this machine pumps water into the globe, eventually leaving no space for the white floaty inside.",
+        "description":"Though reminiscent of an oxygen mask, this machine pumps water into the globe, eventually leaving no space for the white floaty inside.",
         "material": "arduino, acrylic, tube",
         "location": "new york city",
         "date":"oct 2024",
